@@ -28,7 +28,7 @@ A data analytics project visualizing customer complaints across regions, product
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](images/Tableau%20Dashboard.png)
+![Dashboard Preview](images/Tableau%20Dashboard.jpg)
 
 ---
 
